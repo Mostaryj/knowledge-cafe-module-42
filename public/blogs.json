@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/D7GHrJJ/2149568983.jpg",
+      "title": "The Secret Garden",
+      "author": "Samantha Green",
+      "author_img": "https://i.ibb.co/nBmpHN7/christopher-campbell-r-DEOVt-E7v-Os-unsplash.jpg",
+      "posted_date": "March 13, 2024",
+      "reading_time": 1,
+      "hashtags": ["#fiction", "#classics", "#gardening"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/D7GHrJJ/2149568983.jpg",
+      "title": "Lost in the Woods",
+      "author": "Jason Carter",
+      "author_img": "https://i.ibb.co/nBmpHN7/christopher-campbell-r-DEOVt-E7v-Os-unsplash.jpg",
+      "posted_date": "March 12, 2024",
+      "reading_time": 4,
+      "hashtags": ["#adventure", "#mystery", "#nature"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/D7GHrJJ/2149568983.jpg",
+      "title": "The Starry Night",
+      "author": "Emily White",
+      "author_img": "https://i.ibb.co/nBmpHN7/christopher-campbell-r-DEOVt-E7v-Os-unsplash.jpg",
+      "posted_date": "March 11, 2024",
+      "reading_time": 2,
+      "hashtags": ["#romance", "#astronomy", "#fantasy"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/D7GHrJJ/2149568983.jpg",
+      "title": "Beyond the Horizon",
+      "author": "Michael Smith",
+      "author_img": "https://i.ibb.co/nBmpHN7/christopher-campbell-r-DEOVt-E7v-Os-unsplash.jpg",
+      "posted_date": "March 10, 2024",
+      "reading_time": 6,
+      "hashtags": [ "#exploration", "#future"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/D7GHrJJ/2149568983.jpg",
+      "title": "Echoes of the Past",
+      "author": "Sarah Johnson",
+      "author_img": "https://i.ibb.co/nBmpHN7/christopher-campbell-r-DEOVt-E7v-Os-unsplash.jpg",
+      "posted_date": "March 9, 2024",
+      "reading_time": 3,
+      "hashtags": ["#historicalfiction", "#mystery" ]
+    }
+  ]
+  
